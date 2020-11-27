@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 data is inserte
 again on local
+=======
+data is inserted again on web
+>>>>>>> d0aac31d3e545e95496b1df6b9028b1b7369e98a
